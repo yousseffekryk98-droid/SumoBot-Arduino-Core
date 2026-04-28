@@ -121,6 +121,7 @@ Right Motor Driver:
 5. Calibrate sensor thresholds if using autonomous mode
 
 ---
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0fda4216-2a4f-4152-b249-0814f1bdfafd" />
 
 ## 👨‍💻 Developer
 **Developed by Youssef Mohamed Fekry**  
