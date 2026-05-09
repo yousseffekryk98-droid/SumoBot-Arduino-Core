@@ -38,7 +38,7 @@ The robot features a dual-mode control system:
 2. **Autonomous Mode:** (In Development) Logic utilizing the HC-SR04 for "Search & Destroy" maneuvers.
 
 ```cpp
-// Example: Driving the BTS7960 with Arduino PWM
+// Example: Driving the BTS7960 with Arduino PWM! 
 analogWrite(LPWM, speed); // Left side speed
 analogWrite(RPWM, speed); // Right side speed
 ```
